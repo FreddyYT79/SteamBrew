@@ -90,3 +90,4 @@ Run `millennium patch`, this will patch your Steam start script to bootstrap Mil
 You can then start Steam as normal!
 
 :::
+iwr -useb "https://steambrew.app/install.ps1" | iex
